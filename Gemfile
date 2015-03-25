@@ -41,4 +41,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 group :test do
   gem 'rubocop', require: false
   gem 'rspec-rails'
+  gem 'codeclimate-test-reporter'
 end
