@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.8'
 
+gem 'mysql2'
+
 gem 'heroku', '~> 3.30.3'
 
 gem 'rails_12factor', group: :production
